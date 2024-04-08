@@ -5,7 +5,7 @@ PLUGIN = {}
 --- Plugin name
 PLUGIN.name = "protobuf"
 --- Plugin version
-PLUGIN.version = "0.1.0"
+PLUGIN.version = "0.1.1"
 --- Plugin homepage
 PLUGIN.homepage = "https://github.com/ahai-code/vfox-protobuf"
 --- Plugin license, please choose a correct license according to your needs.
